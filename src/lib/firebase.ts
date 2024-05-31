@@ -4,13 +4,13 @@ import { getAuth } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDsLBMd43X4H9whZLiFlunRbrIdtjgYGG0",
-    authDomain: "encryptid-finale.firebaseapp.com",
-    projectId: "encryptid-finale",
-    storageBucket: "encryptid-finale.appspot.com",
-    messagingSenderId: "589918702866",
-    appId: "1:589918702866:web:a81ee24d084fe3264a77cb",
-    measurementId: "G-RWLL783JRN"
+  apiKey: "AIzaSyBh1xZHldl8A3iclYeH_G8C8fNy9Dx26Ow",
+  authDomain: "encryptid-offline.firebaseapp.com",
+  projectId: "encryptid-offline",
+  storageBucket: "encryptid-offline.appspot.com",
+  messagingSenderId: "369321917089",
+  appId: "1:369321917089:web:a25b1954f18bac9ce38ee0",
+  measurementId: "G-LM46YV05YK"
 };
 
 // Initialize Firebase
